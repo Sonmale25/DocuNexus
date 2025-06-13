@@ -1,0 +1,10 @@
+streamlit
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+pytesseract
+pillow
+pymupdf
+torch
+transformers
+numpy
